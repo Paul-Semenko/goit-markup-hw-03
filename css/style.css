@@ -2,7 +2,6 @@ html {
     box-sizing: border-box;
 }
 
-*,
 *::before,
 *::after {
     box-sizing: inherit;
@@ -372,11 +371,6 @@ img {
     text-align: center;
     text-transform: uppercase;
 }
-
-
-/* .intro {
-    padding-bottom: 200px;
-} */
 
 .button {
     display: block;
