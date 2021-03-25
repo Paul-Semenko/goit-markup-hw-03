@@ -159,6 +159,7 @@ img {
 
 .link,
 .header-link {
+    display: block;
     padding-top: 32px;
     padding-bottom: 32px;
 }
@@ -495,7 +496,7 @@ img {
 }
 
 .card-content {
-    padding: 30px 59px;
+    padding: 30px 32px;
 }
 
 .team-member {
